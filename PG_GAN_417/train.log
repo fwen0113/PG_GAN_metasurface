@@ -1,0 +1,1127 @@
+2019-03-30 02:36:17,506:INFO: Start training
+2019-03-30 02:36:59,738:INFO: Start training
+2019-03-30 02:37:02,974:INFO: Start generating devices for wavelength range 500 to 1300 and angle range from 35 to 85 
+
+2019-03-30 02:37:03,618:INFO: wavelength = 500 is done. 
+
+2019-03-30 02:37:04,252:INFO: wavelength = 550 is done. 
+
+2019-03-30 02:37:04,909:INFO: wavelength = 600 is done. 
+
+2019-03-30 02:37:05,540:INFO: wavelength = 650 is done. 
+
+2019-03-30 02:37:06,163:INFO: wavelength = 700 is done. 
+
+2019-03-30 02:37:06,806:INFO: wavelength = 750 is done. 
+
+2019-03-30 02:37:07,467:INFO: wavelength = 800 is done. 
+
+2019-03-30 02:37:08,091:INFO: wavelength = 850 is done. 
+
+2019-03-30 02:37:08,752:INFO: wavelength = 900 is done. 
+
+2019-03-30 02:37:09,381:INFO: wavelength = 950 is done. 
+
+2019-03-30 02:37:10,028:INFO: wavelength = 1000 is done. 
+
+2019-03-30 02:37:10,675:INFO: wavelength = 1050 is done. 
+
+2019-03-30 02:37:11,335:INFO: wavelength = 1100 is done. 
+
+2019-03-30 02:37:11,976:INFO: wavelength = 1150 is done. 
+
+2019-03-30 02:37:12,626:INFO: wavelength = 1200 is done. 
+
+2019-03-30 02:37:13,295:INFO: wavelength = 1250 is done. 
+
+2019-03-30 02:37:13,978:INFO: wavelength = 1300 is done. 
+
+2019-03-30 02:49:57,052:INFO: Start training
+2019-03-30 02:50:09,923:INFO: Start generating devices for wavelength range 500 to 1300 and angle range from 35 to 85 
+
+2019-03-30 02:50:11,808:INFO: wavelength = 500 is done. 
+
+2019-03-30 02:50:13,681:INFO: wavelength = 550 is done. 
+
+2019-03-30 02:50:15,554:INFO: wavelength = 600 is done. 
+
+2019-03-30 02:50:17,428:INFO: wavelength = 650 is done. 
+
+2019-03-30 02:50:19,304:INFO: wavelength = 700 is done. 
+
+2019-03-30 02:50:21,181:INFO: wavelength = 750 is done. 
+
+2019-03-30 02:50:23,052:INFO: wavelength = 800 is done. 
+
+2019-03-30 02:50:24,928:INFO: wavelength = 850 is done. 
+
+2019-03-30 02:50:26,799:INFO: wavelength = 900 is done. 
+
+2019-03-30 02:50:28,672:INFO: wavelength = 950 is done. 
+
+2019-03-30 02:50:30,546:INFO: wavelength = 1000 is done. 
+
+2019-03-30 02:50:32,422:INFO: wavelength = 1050 is done. 
+
+2019-03-30 02:50:34,292:INFO: wavelength = 1100 is done. 
+
+2019-03-30 02:50:36,179:INFO: wavelength = 1150 is done. 
+
+2019-03-30 02:50:38,054:INFO: wavelength = 1200 is done. 
+
+2019-03-30 02:50:39,924:INFO: wavelength = 1250 is done. 
+
+2019-03-30 02:50:41,796:INFO: wavelength = 1300 is done. 
+
+2019-03-30 02:55:41,365:INFO: Start training
+2019-03-30 02:55:43,275:INFO: Start generating devices for wavelength range 500 to 1300 and angle range from 35 to 85 
+
+2019-03-30 02:55:43,948:INFO: wavelength = 500 is done. 
+
+2019-03-30 02:55:44,594:INFO: wavelength = 550 is done. 
+
+2019-03-30 02:55:45,233:INFO: wavelength = 600 is done. 
+
+2019-03-30 02:55:45,884:INFO: wavelength = 650 is done. 
+
+2019-03-30 02:55:46,534:INFO: wavelength = 700 is done. 
+
+2019-03-30 02:55:47,197:INFO: wavelength = 750 is done. 
+
+2019-03-30 02:55:47,879:INFO: wavelength = 800 is done. 
+
+2019-03-30 02:55:48,555:INFO: wavelength = 850 is done. 
+
+2019-03-30 02:55:49,219:INFO: wavelength = 900 is done. 
+
+2019-03-30 02:55:49,894:INFO: wavelength = 950 is done. 
+
+2019-03-30 02:55:50,548:INFO: wavelength = 1000 is done. 
+
+2019-03-30 02:55:51,182:INFO: wavelength = 1050 is done. 
+
+2019-03-30 02:55:51,830:INFO: wavelength = 1100 is done. 
+
+2019-03-30 02:55:52,470:INFO: wavelength = 1150 is done. 
+
+2019-03-30 02:55:53,151:INFO: wavelength = 1200 is done. 
+
+2019-03-30 02:55:53,834:INFO: wavelength = 1250 is done. 
+
+2019-03-30 02:55:54,512:INFO: wavelength = 1300 is done. 
+
+2019-03-30 03:02:37,891:INFO: Start training
+2019-03-30 03:02:39,779:INFO: Start generating devices for wavelength range 500 to 1300 and angle range from 35 to 85 
+
+2019-03-30 03:02:40,405:INFO: wavelength = 500 is done. 
+
+2019-03-30 03:02:41,055:INFO: wavelength = 550 is done. 
+
+2019-03-30 03:02:41,711:INFO: wavelength = 600 is done. 
+
+2019-03-30 03:02:42,368:INFO: wavelength = 650 is done. 
+
+2019-03-30 03:02:43,026:INFO: wavelength = 700 is done. 
+
+2019-03-30 03:02:43,663:INFO: wavelength = 750 is done. 
+
+2019-03-30 03:02:44,306:INFO: wavelength = 800 is done. 
+
+2019-03-30 03:02:44,937:INFO: wavelength = 850 is done. 
+
+2019-03-30 03:02:45,592:INFO: wavelength = 900 is done. 
+
+2019-03-30 03:02:46,253:INFO: wavelength = 950 is done. 
+
+2019-03-30 03:02:46,924:INFO: wavelength = 1000 is done. 
+
+2019-03-30 03:02:47,581:INFO: wavelength = 1050 is done. 
+
+2019-03-30 03:02:48,506:INFO: wavelength = 1100 is done. 
+
+2019-03-30 03:02:49,299:INFO: wavelength = 1150 is done. 
+
+2019-03-30 03:02:50,387:INFO: wavelength = 1200 is done. 
+
+2019-03-30 03:02:51,048:INFO: wavelength = 1250 is done. 
+
+2019-03-30 03:02:51,710:INFO: wavelength = 1300 is done. 
+
+2019-03-30 03:05:18,750:INFO: Start training
+2019-03-30 03:05:20,684:INFO: Start generating devices for wavelength range 500 to 1300 and angle range from 35 to 85 
+
+2019-03-30 03:05:21,321:INFO: wavelength = 500 is done. 
+
+2019-03-30 03:05:21,946:INFO: wavelength = 550 is done. 
+
+2019-03-30 03:05:22,555:INFO: wavelength = 600 is done. 
+
+2019-03-30 03:05:23,642:INFO: wavelength = 650 is done. 
+
+2019-03-30 03:05:24,891:INFO: wavelength = 700 is done. 
+
+2019-03-30 03:05:25,568:INFO: wavelength = 750 is done. 
+
+2019-03-30 03:05:26,193:INFO: wavelength = 800 is done. 
+
+2019-03-30 03:05:26,808:INFO: wavelength = 850 is done. 
+
+2019-03-30 03:05:27,435:INFO: wavelength = 900 is done. 
+
+2019-03-30 03:05:28,049:INFO: wavelength = 950 is done. 
+
+2019-03-30 03:05:28,707:INFO: wavelength = 1000 is done. 
+
+2019-03-30 03:05:29,355:INFO: wavelength = 1050 is done. 
+
+2019-03-30 03:05:30,014:INFO: wavelength = 1100 is done. 
+
+2019-03-30 03:05:30,678:INFO: wavelength = 1150 is done. 
+
+2019-03-30 03:05:31,300:INFO: wavelength = 1200 is done. 
+
+2019-03-30 03:05:32,012:INFO: wavelength = 1250 is done. 
+
+2019-03-30 03:05:32,644:INFO: wavelength = 1300 is done. 
+
+2019-03-30 03:16:47,847:INFO: Start training
+2019-03-30 03:19:54,945:INFO: Start training
+2019-03-30 03:20:01,743:INFO: Start generating devices for wavelength range 500 to 1300 and angle range from 35 to 85 
+
+2019-03-30 03:20:03,619:INFO: wavelength = 500 is done. 
+
+2019-03-30 03:20:05,487:INFO: wavelength = 550 is done. 
+
+2019-03-30 03:20:07,356:INFO: wavelength = 600 is done. 
+
+2019-03-30 03:20:09,223:INFO: wavelength = 650 is done. 
+
+2019-03-30 03:20:11,088:INFO: wavelength = 700 is done. 
+
+2019-03-30 03:20:12,960:INFO: wavelength = 750 is done. 
+
+2019-03-30 03:20:14,825:INFO: wavelength = 800 is done. 
+
+2019-03-30 03:20:16,693:INFO: wavelength = 850 is done. 
+
+2019-03-30 03:20:18,564:INFO: wavelength = 900 is done. 
+
+2019-03-30 03:20:20,435:INFO: wavelength = 950 is done. 
+
+2019-03-30 03:20:22,306:INFO: wavelength = 1000 is done. 
+
+2019-03-30 03:20:24,174:INFO: wavelength = 1050 is done. 
+
+2019-03-30 03:20:26,043:INFO: wavelength = 1100 is done. 
+
+2019-03-30 03:20:27,909:INFO: wavelength = 1150 is done. 
+
+2019-03-30 03:20:29,783:INFO: wavelength = 1200 is done. 
+
+2019-03-30 03:20:31,650:INFO: wavelength = 1250 is done. 
+
+2019-03-30 03:20:33,517:INFO: wavelength = 1300 is done. 
+
+2019-03-30 03:24:44,675:INFO: Start training
+2019-03-30 03:24:46,514:INFO: Start generating devices for wavelength range 500 to 1300 and angle range from 35 to 85 
+
+2019-03-30 03:24:47,151:INFO: wavelength = 500 is done. 
+
+2019-03-30 03:24:47,792:INFO: wavelength = 550 is done. 
+
+2019-03-30 03:24:48,446:INFO: wavelength = 600 is done. 
+
+2019-03-30 03:24:49,117:INFO: wavelength = 650 is done. 
+
+2019-03-30 03:24:49,770:INFO: wavelength = 700 is done. 
+
+2019-03-30 03:24:50,414:INFO: wavelength = 750 is done. 
+
+2019-03-30 03:24:51,064:INFO: wavelength = 800 is done. 
+
+2019-03-30 03:24:51,725:INFO: wavelength = 850 is done. 
+
+2019-03-30 03:24:52,390:INFO: wavelength = 900 is done. 
+
+2019-03-30 03:24:53,067:INFO: wavelength = 950 is done. 
+
+2019-03-30 03:24:53,731:INFO: wavelength = 1000 is done. 
+
+2019-03-30 03:24:54,374:INFO: wavelength = 1050 is done. 
+
+2019-03-30 03:24:55,019:INFO: wavelength = 1100 is done. 
+
+2019-03-30 03:24:55,723:INFO: wavelength = 1150 is done. 
+
+2019-03-30 03:24:56,399:INFO: wavelength = 1200 is done. 
+
+2019-03-30 03:24:57,066:INFO: wavelength = 1250 is done. 
+
+2019-03-30 03:24:57,731:INFO: wavelength = 1300 is done. 
+
+2019-03-30 03:26:50,841:INFO: Start training
+2019-03-30 04:51:37,045:INFO: Start generating devices for wavelength range 500 to 1300 and angle range from 35 to 85 
+
+2019-03-30 04:51:37,776:INFO: wavelength = 500 is done. 
+
+2019-03-30 04:51:38,485:INFO: wavelength = 550 is done. 
+
+2019-03-30 04:51:39,203:INFO: wavelength = 600 is done. 
+
+2019-03-30 04:51:39,924:INFO: wavelength = 650 is done. 
+
+2019-03-30 04:51:40,640:INFO: wavelength = 700 is done. 
+
+2019-03-30 04:51:41,357:INFO: wavelength = 750 is done. 
+
+2019-03-30 04:51:42,086:INFO: wavelength = 800 is done. 
+
+2019-03-30 04:51:42,817:INFO: wavelength = 850 is done. 
+
+2019-03-30 04:51:43,550:INFO: wavelength = 900 is done. 
+
+2019-03-30 04:51:44,265:INFO: wavelength = 950 is done. 
+
+2019-03-30 04:51:44,985:INFO: wavelength = 1000 is done. 
+
+2019-03-30 04:51:45,700:INFO: wavelength = 1050 is done. 
+
+2019-03-30 04:51:46,421:INFO: wavelength = 1100 is done. 
+
+2019-03-30 04:51:47,141:INFO: wavelength = 1150 is done. 
+
+2019-03-30 04:51:47,883:INFO: wavelength = 1200 is done. 
+
+2019-03-30 04:51:48,612:INFO: wavelength = 1250 is done. 
+
+2019-03-30 04:51:49,349:INFO: wavelength = 1300 is done. 
+
+2019-03-30 10:40:53,805:INFO: Start training
+2019-03-30 14:39:27,271:INFO: Start training
+2019-03-30 14:42:51,760:INFO: Start generating devices for wavelength range 500 to 1300 and angle range from 35 to 85 
+
+2019-03-30 14:43:25,369:INFO: wavelength = 500 is done. 
+
+2019-03-30 14:43:59,021:INFO: wavelength = 550 is done. 
+
+2019-03-30 14:44:32,601:INFO: wavelength = 600 is done. 
+
+2019-03-30 14:45:06,415:INFO: wavelength = 650 is done. 
+
+2019-03-30 14:45:40,075:INFO: wavelength = 700 is done. 
+
+2019-03-30 14:46:16,191:INFO: Start training
+2019-03-30 14:50:25,140:INFO: Start generating devices for wavelength range 500 to 1300 and angle range from 35 to 85 
+
+2019-03-30 14:51:04,537:INFO: wavelength = 500 is done. 
+
+2019-03-30 14:51:43,921:INFO: wavelength = 550 is done. 
+
+2019-03-30 14:52:23,256:INFO: wavelength = 600 is done. 
+
+2019-03-30 14:53:02,648:INFO: wavelength = 650 is done. 
+
+2019-03-30 14:53:42,039:INFO: wavelength = 700 is done. 
+
+2019-03-30 14:54:21,378:INFO: wavelength = 750 is done. 
+
+2019-03-30 15:02:47,715:INFO: Start training
+2019-03-30 15:03:00,667:INFO: Start generating devices for wavelength range 500 to 1300 and angle range from 35 to 85 
+
+2019-03-30 15:03:02,625:INFO: wavelength = 500 is done. 
+
+2019-03-30 15:03:04,597:INFO: wavelength = 550 is done. 
+
+2019-03-30 15:03:06,559:INFO: wavelength = 600 is done. 
+
+2019-03-30 15:03:08,530:INFO: wavelength = 650 is done. 
+
+2019-03-30 15:03:10,488:INFO: wavelength = 700 is done. 
+
+2019-03-30 15:03:12,448:INFO: wavelength = 750 is done. 
+
+2019-03-30 15:03:14,407:INFO: wavelength = 800 is done. 
+
+2019-03-30 15:03:16,362:INFO: wavelength = 850 is done. 
+
+2019-03-30 15:03:18,315:INFO: wavelength = 900 is done. 
+
+2019-03-30 15:03:20,271:INFO: wavelength = 950 is done. 
+
+2019-03-30 15:03:22,225:INFO: wavelength = 1000 is done. 
+
+2019-03-30 15:03:24,180:INFO: wavelength = 1050 is done. 
+
+2019-03-30 15:03:26,132:INFO: wavelength = 1100 is done. 
+
+2019-03-30 15:03:28,087:INFO: wavelength = 1150 is done. 
+
+2019-03-30 15:03:30,038:INFO: wavelength = 1200 is done. 
+
+2019-03-30 15:03:31,996:INFO: wavelength = 1250 is done. 
+
+2019-03-30 15:03:33,945:INFO: wavelength = 1300 is done. 
+
+2019-03-30 16:29:37,898:INFO: Start generating devices for wavelength range 500 to 1300 and angle range from 35 to 85 
+
+2019-03-30 16:29:38,917:INFO: wavelength = 500 is done. 
+
+2019-03-30 16:29:39,917:INFO: wavelength = 550 is done. 
+
+2019-03-30 16:29:40,911:INFO: wavelength = 600 is done. 
+
+2019-03-30 16:29:41,908:INFO: wavelength = 650 is done. 
+
+2019-03-30 16:29:42,896:INFO: wavelength = 700 is done. 
+
+2019-03-30 16:29:43,889:INFO: wavelength = 750 is done. 
+
+2019-03-30 16:29:44,882:INFO: wavelength = 800 is done. 
+
+2019-03-30 16:29:45,884:INFO: wavelength = 850 is done. 
+
+2019-03-30 16:29:46,881:INFO: wavelength = 900 is done. 
+
+2019-03-30 16:29:47,876:INFO: wavelength = 950 is done. 
+
+2019-03-30 16:29:48,864:INFO: wavelength = 1000 is done. 
+
+2019-03-30 16:29:49,907:INFO: wavelength = 1050 is done. 
+
+2019-03-30 16:29:50,956:INFO: wavelength = 1100 is done. 
+
+2019-03-30 16:29:51,944:INFO: wavelength = 1150 is done. 
+
+2019-03-30 16:29:52,938:INFO: wavelength = 1200 is done. 
+
+2019-03-30 16:29:53,927:INFO: wavelength = 1250 is done. 
+
+2019-03-30 16:29:54,915:INFO: wavelength = 1300 is done. 
+
+2019-03-31 00:08:42,090:INFO: Start training
+2019-03-31 00:10:03,364:INFO: Start training
+2019-03-31 00:33:56,069:INFO: Start training
+2019-03-31 00:52:15,780:INFO: Start generating devices for wavelength range 500 to 1300 and angle range from 35 to 85 
+
+2019-03-31 00:52:16,563:INFO: wavelength = 500 is done. 
+
+2019-03-31 00:52:17,599:INFO: wavelength = 550 is done. 
+
+2019-03-31 00:52:18,227:INFO: wavelength = 600 is done. 
+
+2019-03-31 00:52:18,858:INFO: wavelength = 650 is done. 
+
+2019-03-31 00:52:19,486:INFO: wavelength = 700 is done. 
+
+2019-03-31 00:52:20,114:INFO: wavelength = 750 is done. 
+
+2019-03-31 00:52:20,743:INFO: wavelength = 800 is done. 
+
+2019-03-31 00:52:21,370:INFO: wavelength = 850 is done. 
+
+2019-03-31 00:52:21,998:INFO: wavelength = 900 is done. 
+
+2019-03-31 00:52:22,627:INFO: wavelength = 950 is done. 
+
+2019-03-31 00:52:23,258:INFO: wavelength = 1000 is done. 
+
+2019-03-31 00:52:23,887:INFO: wavelength = 1050 is done. 
+
+2019-03-31 00:52:24,521:INFO: wavelength = 1100 is done. 
+
+2019-03-31 00:52:25,160:INFO: wavelength = 1150 is done. 
+
+2019-03-31 00:52:25,800:INFO: wavelength = 1200 is done. 
+
+2019-03-31 00:52:26,444:INFO: wavelength = 1250 is done. 
+
+2019-03-31 00:52:27,094:INFO: wavelength = 1300 is done. 
+
+2019-03-31 01:16:01,153:INFO: Start generating devices for wavelength range 500 to 1300 and angle range from 35 to 85 
+
+2019-03-31 01:16:01,837:INFO: wavelength = 500 is done. 
+
+2019-03-31 01:16:02,480:INFO: wavelength = 550 is done. 
+
+2019-03-31 01:16:03,132:INFO: wavelength = 600 is done. 
+
+2019-03-31 01:16:03,790:INFO: wavelength = 650 is done. 
+
+2019-03-31 01:16:04,451:INFO: wavelength = 700 is done. 
+
+2019-03-31 01:16:05,115:INFO: wavelength = 750 is done. 
+
+2019-03-31 01:16:05,781:INFO: wavelength = 800 is done. 
+
+2019-03-31 01:16:06,443:INFO: wavelength = 850 is done. 
+
+2019-03-31 01:16:07,100:INFO: wavelength = 900 is done. 
+
+2019-03-31 01:16:07,750:INFO: wavelength = 950 is done. 
+
+2019-03-31 01:16:08,398:INFO: wavelength = 1000 is done. 
+
+2019-03-31 01:16:09,051:INFO: wavelength = 1050 is done. 
+
+2019-03-31 01:16:09,718:INFO: wavelength = 1100 is done. 
+
+2019-03-31 01:16:10,399:INFO: wavelength = 1150 is done. 
+
+2019-03-31 01:16:11,101:INFO: wavelength = 1200 is done. 
+
+2019-03-31 01:16:11,791:INFO: wavelength = 1250 is done. 
+
+2019-03-31 01:16:12,437:INFO: wavelength = 1300 is done. 
+
+2019-03-31 01:30:10,458:INFO: Start training
+2019-03-31 05:50:01,868:INFO: Start generating devices for wavelength range 500 to 1300 and angle range from 35 to 85 
+
+2019-03-31 05:50:02,829:INFO: wavelength = 500 is done. 
+
+2019-03-31 05:50:03,781:INFO: wavelength = 550 is done. 
+
+2019-03-31 05:50:04,730:INFO: wavelength = 600 is done. 
+
+2019-03-31 05:50:05,668:INFO: wavelength = 650 is done. 
+
+2019-03-31 05:50:06,601:INFO: wavelength = 700 is done. 
+
+2019-03-31 05:50:07,562:INFO: wavelength = 750 is done. 
+
+2019-03-31 05:50:08,479:INFO: wavelength = 800 is done. 
+
+2019-03-31 05:50:09,430:INFO: wavelength = 850 is done. 
+
+2019-03-31 05:50:10,343:INFO: wavelength = 900 is done. 
+
+2019-03-31 05:50:11,286:INFO: wavelength = 950 is done. 
+
+2019-03-31 05:50:12,322:INFO: wavelength = 1000 is done. 
+
+2019-03-31 05:50:13,266:INFO: wavelength = 1050 is done. 
+
+2019-03-31 05:50:14,192:INFO: wavelength = 1100 is done. 
+
+2019-03-31 05:50:15,095:INFO: wavelength = 1150 is done. 
+
+2019-03-31 05:50:16,006:INFO: wavelength = 1200 is done. 
+
+2019-03-31 05:50:16,932:INFO: wavelength = 1250 is done. 
+
+2019-03-31 05:50:17,880:INFO: wavelength = 1300 is done. 
+
+2019-03-31 23:52:32,127:INFO: Start training
+2019-04-01 00:51:39,949:INFO: Start training
+2019-04-01 00:56:53,258:INFO: Start training
+2019-04-01 01:13:24,599:INFO: Start training
+2019-04-01 01:38:20,373:INFO: Start training
+2019-04-01 01:42:44,494:INFO: Start training
+2019-04-01 01:44:59,351:INFO: Start training
+2019-04-01 02:14:05,510:INFO: Start training
+2019-04-01 02:18:40,417:INFO: Start training
+2019-04-01 02:20:22,494:INFO: Start training
+2019-04-01 02:21:15,763:INFO: Start training
+2019-04-01 02:24:09,534:INFO: Start training
+2019-04-01 02:29:09,273:INFO: Start training
+2019-04-01 02:29:38,525:INFO: Start training
+2019-04-01 02:31:05,574:INFO: Start training
+2019-04-01 03:57:58,959:INFO: Start training
+2019-04-01 08:51:01,617:INFO: Start training
+2019-04-01 11:52:26,587:INFO: Start training
+2019-04-01 18:51:05,802:INFO: Start training
+2019-04-01 20:55:28,573:INFO: Start training
+2019-04-01 23:41:51,444:INFO: Start training
+2019-04-02 09:39:44,630:INFO: Start training
+2019-04-02 09:50:46,281:INFO: Start training
+2019-04-02 11:49:40,154:INFO: Start training
+2019-04-03 01:46:33,979:INFO: Start training
+2019-04-03 01:49:09,071:INFO: Start training
+2019-04-03 14:00:56,447:INFO: Start training
+2019-04-03 16:06:03,479:INFO: Start training
+2019-04-04 03:23:22,296:INFO: Start training
+2019-04-04 04:09:26,967:INFO: Start training
+2019-04-04 16:25:50,328:INFO: Start training
+2019-04-04 22:37:41,978:INFO: Start training
+2019-04-06 02:12:37,430:INFO: Start training
+2019-04-06 16:47:47,569:INFO: Start training
+2019-04-06 16:49:10,533:INFO: Start training
+2019-04-06 16:53:59,143:INFO: Start generating devices for wavelength range 500 to 1300 and angle range from 35 to 85 
+
+2019-04-06 16:54:01,002:INFO: wavelength = 500 is done. 
+
+2019-04-06 16:54:02,858:INFO: wavelength = 550 is done. 
+
+2019-04-06 16:54:04,717:INFO: wavelength = 600 is done. 
+
+2019-04-06 16:54:06,582:INFO: wavelength = 650 is done. 
+
+2019-04-06 16:54:08,436:INFO: wavelength = 700 is done. 
+
+2019-04-06 16:54:11,025:INFO: wavelength = 750 is done. 
+
+2019-04-06 16:54:12,881:INFO: wavelength = 800 is done. 
+
+2019-04-06 16:54:14,736:INFO: wavelength = 850 is done. 
+
+2019-04-06 16:54:16,608:INFO: wavelength = 900 is done. 
+
+2019-04-06 16:54:18,748:INFO: wavelength = 950 is done. 
+
+2019-04-06 16:54:20,604:INFO: wavelength = 1000 is done. 
+
+2019-04-06 16:54:22,456:INFO: wavelength = 1050 is done. 
+
+2019-04-06 16:54:24,307:INFO: wavelength = 1100 is done. 
+
+2019-04-06 16:54:26,153:INFO: wavelength = 1150 is done. 
+
+2019-04-06 16:54:28,000:INFO: wavelength = 1200 is done. 
+
+2019-04-06 16:54:29,856:INFO: wavelength = 1250 is done. 
+
+2019-04-06 16:54:31,715:INFO: wavelength = 1300 is done. 
+
+2019-04-06 17:17:30,332:INFO: Start training
+2019-04-06 17:22:22,616:INFO: Start generating devices for wavelength range 500 to 1300 and angle range from 35 to 85 
+
+2019-04-06 17:22:24,519:INFO: wavelength = 500 is done. 
+
+2019-04-06 17:22:26,388:INFO: wavelength = 550 is done. 
+
+2019-04-06 17:22:28,255:INFO: wavelength = 600 is done. 
+
+2019-04-06 17:22:30,121:INFO: wavelength = 650 is done. 
+
+2019-04-06 17:22:31,988:INFO: wavelength = 700 is done. 
+
+2019-04-06 17:22:33,856:INFO: wavelength = 750 is done. 
+
+2019-04-06 17:22:35,726:INFO: wavelength = 800 is done. 
+
+2019-04-06 17:22:37,589:INFO: wavelength = 850 is done. 
+
+2019-04-06 17:22:39,456:INFO: wavelength = 900 is done. 
+
+2019-04-06 17:22:41,323:INFO: wavelength = 950 is done. 
+
+2019-04-06 17:22:43,193:INFO: wavelength = 1000 is done. 
+
+2019-04-06 17:22:45,062:INFO: wavelength = 1050 is done. 
+
+2019-04-06 17:22:46,936:INFO: wavelength = 1100 is done. 
+
+2019-04-06 17:22:48,809:INFO: wavelength = 1150 is done. 
+
+2019-04-06 17:22:50,678:INFO: wavelength = 1200 is done. 
+
+2019-04-06 17:22:52,549:INFO: wavelength = 1250 is done. 
+
+2019-04-06 17:22:54,416:INFO: wavelength = 1300 is done. 
+
+2019-04-06 17:46:20,399:INFO: Start training
+2019-04-06 17:51:58,204:INFO: Start training
+2019-04-06 19:09:46,043:INFO: Start training
+2019-04-06 19:11:18,069:INFO: Start training
+2019-04-06 19:11:21,194:INFO: Start generating devices for wavelength range 500 to 1300 and angle range from 35 to 85 
+
+2019-04-06 19:11:23,054:INFO: wavelength = 500 is done. 
+
+2019-04-06 19:11:24,912:INFO: wavelength = 550 is done. 
+
+2019-04-06 19:11:26,767:INFO: wavelength = 600 is done. 
+
+2019-04-06 19:11:28,618:INFO: wavelength = 650 is done. 
+
+2019-04-06 19:11:30,482:INFO: wavelength = 700 is done. 
+
+2019-04-06 19:11:32,330:INFO: wavelength = 750 is done. 
+
+2019-04-06 19:11:34,179:INFO: wavelength = 800 is done. 
+
+2019-04-06 19:11:36,034:INFO: wavelength = 850 is done. 
+
+2019-04-06 19:11:37,887:INFO: wavelength = 900 is done. 
+
+2019-04-06 19:11:39,737:INFO: wavelength = 950 is done. 
+
+2019-04-06 19:11:41,591:INFO: wavelength = 1000 is done. 
+
+2019-04-06 19:11:43,450:INFO: wavelength = 1050 is done. 
+
+2019-04-06 19:11:45,305:INFO: wavelength = 1100 is done. 
+
+2019-04-06 19:11:47,156:INFO: wavelength = 1150 is done. 
+
+2019-04-06 19:11:49,003:INFO: wavelength = 1200 is done. 
+
+2019-04-06 19:11:50,865:INFO: wavelength = 1250 is done. 
+
+2019-04-06 19:11:52,720:INFO: wavelength = 1300 is done. 
+
+2019-04-06 19:14:07,324:INFO: Start training
+2019-04-06 19:14:10,447:INFO: Start generating devices for wavelength range 500 to 1300 and angle range from 35 to 85 
+
+2019-04-06 19:14:12,309:INFO: wavelength = 500 is done. 
+
+2019-04-06 19:14:14,179:INFO: wavelength = 550 is done. 
+
+2019-04-06 19:14:16,044:INFO: wavelength = 600 is done. 
+
+2019-04-06 19:14:17,907:INFO: wavelength = 650 is done. 
+
+2019-04-06 19:14:19,770:INFO: wavelength = 700 is done. 
+
+2019-04-06 19:14:21,643:INFO: wavelength = 750 is done. 
+
+2019-04-06 19:14:23,509:INFO: wavelength = 800 is done. 
+
+2019-04-06 19:14:25,372:INFO: wavelength = 850 is done. 
+
+2019-04-06 19:14:27,237:INFO: wavelength = 900 is done. 
+
+2019-04-06 19:14:29,099:INFO: wavelength = 950 is done. 
+
+2019-04-06 19:14:30,961:INFO: wavelength = 1000 is done. 
+
+2019-04-06 19:14:32,824:INFO: wavelength = 1050 is done. 
+
+2019-04-06 19:14:34,687:INFO: wavelength = 1100 is done. 
+
+2019-04-06 19:14:36,553:INFO: wavelength = 1150 is done. 
+
+2019-04-06 19:14:38,421:INFO: wavelength = 1200 is done. 
+
+2019-04-06 19:14:40,284:INFO: wavelength = 1250 is done. 
+
+2019-04-06 19:14:42,156:INFO: wavelength = 1300 is done. 
+
+2019-04-06 19:16:27,061:INFO: Start training
+2019-04-15 17:41:15,326:INFO: Start training
+2019-04-15 18:02:54,472:INFO: Start training
+2019-04-15 18:05:10,121:INFO: Start training
+2019-04-15 19:31:28,736:INFO: Start training
+2019-04-15 19:53:37,049:INFO: Start training
+2019-04-15 19:54:08,196:INFO: Start training
+2019-04-15 19:55:56,879:INFO: Start training
+2019-04-15 20:51:10,082:INFO: Start training
+2019-04-15 20:54:36,548:INFO: Start training
+2019-04-15 21:08:19,437:INFO: Start training
+2019-04-15 21:09:17,876:INFO: Start training
+2019-04-15 21:11:24,069:INFO: Start training
+2019-04-15 21:15:03,950:INFO: Start training
+2019-04-15 21:16:39,874:INFO: Start training
+2019-04-15 21:17:53,791:INFO: Start training
+2019-04-15 21:19:42,359:INFO: Start training
+2019-04-15 21:26:03,752:INFO: Start training
+2019-04-15 21:26:42,538:INFO: Start training
+2019-04-15 21:29:43,844:INFO: Start training
+2019-04-15 21:33:48,281:INFO: Start training
+2019-04-15 21:34:33,655:INFO: Start training
+2019-04-15 21:35:51,849:INFO: Start training
+2019-04-15 21:36:59,419:INFO: Start training
+2019-04-15 21:45:09,913:INFO: Start training
+2019-04-15 21:46:46,197:INFO: Start training
+2019-04-17 15:34:02,466:INFO: Start training
+2019-04-17 15:35:38,400:INFO: Start training
+2019-04-17 15:36:29,266:INFO: Start training
+2019-04-17 15:37:42,833:INFO: Start training
+2019-04-17 15:38:15,256:INFO: Start training
+2019-04-17 15:43:02,058:INFO: Start training
+2019-04-17 15:50:02,858:INFO: Start training
+2019-04-17 16:34:13,257:INFO: Start training
+2019-04-17 16:35:52,261:INFO: Start training
+2019-04-17 20:17:13,015:INFO: Start training
+2019-04-17 20:18:18,610:INFO: Start training
+2019-04-17 20:19:44,157:INFO: Start training
+2019-04-19 20:39:41,252:INFO: Start training
+2019-04-19 22:15:57,274:INFO: Start training
+2019-04-19 22:25:13,530:INFO: Start training
+2019-04-19 22:26:03,958:INFO: Start training
+2019-04-19 22:28:04,124:INFO: Start training
+2019-04-19 22:33:56,053:INFO: Start training
+2019-04-19 22:34:15,548:INFO: Start training
+2019-04-19 22:37:39,798:INFO: Start training
+2019-04-19 22:42:12,238:INFO: Start training
+2019-04-19 22:46:30,147:INFO: Start training
+2019-04-19 22:48:56,011:INFO: Start training
+2019-04-19 22:52:13,147:INFO: Start training
+2019-04-19 22:52:25,202:INFO: Start training
+2019-04-19 22:59:52,866:INFO: Start training
+2019-04-19 23:07:42,565:INFO: Start training
+2019-04-19 23:14:27,995:INFO: Start training
+2019-04-19 23:18:54,552:INFO: Start training
+2019-04-20 02:04:56,511:INFO: Start training
+2019-04-20 02:12:04,878:INFO: Start training
+2019-04-20 02:33:47,333:INFO: Start training
+2019-04-20 02:34:54,601:INFO: Start training
+2019-04-20 02:37:38,170:INFO: Start training
+2019-04-20 02:44:56,515:INFO: Start training
+2019-04-20 02:51:30,318:INFO: Start training
+2019-04-20 03:11:20,237:INFO: Start training
+2019-04-20 03:26:06,703:INFO: Start training
+2019-04-20 03:28:49,985:INFO: Start training
+2019-04-20 03:31:23,841:INFO: Start training
+2019-04-20 03:32:28,570:INFO: Start training
+2019-04-20 03:33:59,133:INFO: Start training
+2019-04-20 03:35:26,191:INFO: Start training
+2019-04-20 03:39:53,981:INFO: Start training
+2019-04-20 03:43:44,690:INFO: Start training
+2019-04-20 03:45:02,478:INFO: Start training
+2019-04-20 04:01:40,319:INFO: Start training
+2019-04-20 04:05:19,614:INFO: Start training
+2019-04-20 13:14:29,564:INFO: Start training
+2019-04-20 13:19:50,782:INFO: Start training
+2019-04-20 13:21:26,661:INFO: Start training
+2019-04-20 13:34:33,549:INFO: Start training
+2019-04-20 13:55:25,264:INFO: Start training
+2019-04-20 13:56:33,834:INFO: Start training
+2019-04-20 13:56:59,797:INFO: Start training
+2019-04-20 13:59:59,467:INFO: Start training
+2019-04-20 14:03:02,651:INFO: Start training
+2019-04-20 14:03:11,363:INFO: Start training
+2019-04-20 14:04:28,628:INFO: Start training
+2019-04-20 14:04:47,250:INFO: Start training
+2019-04-20 14:05:12,121:INFO: Start training
+2019-04-20 14:05:40,650:INFO: Start training
+2019-04-20 14:05:48,818:INFO: Start training
+2019-04-20 14:08:02,417:INFO: Start training
+2019-04-20 14:08:37,397:INFO: Start training
+2019-04-20 14:11:22,493:INFO: Start training
+2019-04-20 14:12:07,116:INFO: Start training
+2019-04-20 14:13:13,341:INFO: Start training
+2019-04-20 14:13:26,738:INFO: Start training
+2019-04-20 14:42:00,206:INFO: Start training
+2019-04-20 14:43:57,669:INFO: Start training
+2019-04-20 14:52:00,309:INFO: Start training
+2019-04-20 15:58:56,176:INFO: Start training
+2019-04-20 16:22:53,009:INFO: Start training
+2019-04-20 16:48:41,017:INFO: Start training
+2019-04-20 16:52:36,527:INFO: Start training
+2019-04-20 16:54:19,762:INFO: Start training
+2019-04-20 16:57:44,812:INFO: Start training
+2019-04-20 17:03:13,245:INFO: Start training
+2019-04-20 17:04:21,206:INFO: Start training
+2019-04-20 17:07:34,242:INFO: Start training
+2019-04-20 17:11:39,670:INFO: Start training
+2019-04-20 17:28:26,680:INFO: Start training
+2019-04-20 17:32:03,963:INFO: Start training
+2019-04-20 17:32:26,031:INFO: Start generating devices for wavelength range 500 to 1300 and angle range from 35 to 85 
+
+2019-04-20 17:32:27,823:INFO: wavelength = 500 is done. 
+
+2019-04-20 17:32:29,607:INFO: wavelength = 550 is done. 
+
+2019-04-20 17:32:31,387:INFO: wavelength = 600 is done. 
+
+2019-04-20 17:32:33,165:INFO: wavelength = 650 is done. 
+
+2019-04-20 17:32:34,943:INFO: wavelength = 700 is done. 
+
+2019-04-20 17:32:36,725:INFO: wavelength = 750 is done. 
+
+2019-04-20 17:32:38,505:INFO: wavelength = 800 is done. 
+
+2019-04-20 17:32:40,290:INFO: wavelength = 850 is done. 
+
+2019-04-20 17:32:42,072:INFO: wavelength = 900 is done. 
+
+2019-04-20 17:32:43,857:INFO: wavelength = 950 is done. 
+
+2019-04-20 17:32:45,645:INFO: wavelength = 1000 is done. 
+
+2019-04-20 17:32:47,434:INFO: wavelength = 1050 is done. 
+
+2019-04-20 17:32:49,222:INFO: wavelength = 1100 is done. 
+
+2019-04-20 17:32:51,005:INFO: wavelength = 1150 is done. 
+
+2019-04-20 17:32:52,786:INFO: wavelength = 1200 is done. 
+
+2019-04-20 17:32:54,571:INFO: wavelength = 1250 is done. 
+
+2019-04-20 17:32:56,354:INFO: wavelength = 1300 is done. 
+
+2019-04-20 17:37:12,717:INFO: Start training
+2019-04-20 17:42:45,751:INFO: Start training
+2019-04-20 17:58:34,725:INFO: Start training
+2019-04-20 20:17:35,635:INFO: Start training
+2019-04-20 20:19:48,641:INFO: Start training
+2019-04-20 20:24:00,728:INFO: Start training
+2019-04-20 21:04:07,954:INFO: Start training
+2019-04-20 21:07:55,838:INFO: Start generating devices for wavelength range 500 to 1300 and angle range from 35 to 85 
+
+2019-04-20 21:07:57,653:INFO: wavelength = 500 is done. 
+
+2019-04-20 21:07:59,460:INFO: wavelength = 550 is done. 
+
+2019-04-20 21:08:01,264:INFO: wavelength = 600 is done. 
+
+2019-04-20 21:08:03,073:INFO: wavelength = 650 is done. 
+
+2019-04-20 21:08:04,880:INFO: wavelength = 700 is done. 
+
+2019-04-20 21:08:06,684:INFO: wavelength = 750 is done. 
+
+2019-04-20 21:08:08,491:INFO: wavelength = 800 is done. 
+
+2019-04-20 21:08:10,300:INFO: wavelength = 850 is done. 
+
+2019-04-20 21:08:12,109:INFO: wavelength = 900 is done. 
+
+2019-04-20 21:08:13,913:INFO: wavelength = 950 is done. 
+
+2019-04-20 21:08:15,717:INFO: wavelength = 1000 is done. 
+
+2019-04-20 21:08:17,526:INFO: wavelength = 1050 is done. 
+
+2019-04-20 21:08:19,331:INFO: wavelength = 1100 is done. 
+
+2019-04-20 21:08:21,135:INFO: wavelength = 1150 is done. 
+
+2019-04-20 21:08:22,944:INFO: wavelength = 1200 is done. 
+
+2019-04-20 21:08:24,757:INFO: wavelength = 1250 is done. 
+
+2019-04-20 21:08:26,569:INFO: wavelength = 1300 is done. 
+
+2019-04-20 21:26:03,488:INFO: Start training
+2019-04-20 22:46:58,346:INFO: Start generating devices for wavelength range 500 to 1300 and angle range from 35 to 85 
+
+2019-04-20 22:47:00,168:INFO: wavelength = 500 is done. 
+
+2019-04-20 22:47:01,980:INFO: wavelength = 550 is done. 
+
+2019-04-20 22:47:03,792:INFO: wavelength = 600 is done. 
+
+2019-04-20 22:47:05,604:INFO: wavelength = 650 is done. 
+
+2019-04-20 22:47:07,416:INFO: wavelength = 700 is done. 
+
+2019-04-20 22:47:09,229:INFO: wavelength = 750 is done. 
+
+2019-04-20 22:47:11,041:INFO: wavelength = 800 is done. 
+
+2019-04-20 22:47:12,854:INFO: wavelength = 850 is done. 
+
+2019-04-20 22:47:14,666:INFO: wavelength = 900 is done. 
+
+2019-04-20 22:47:16,477:INFO: wavelength = 950 is done. 
+
+2019-04-20 22:47:18,289:INFO: wavelength = 1000 is done. 
+
+2019-04-20 22:47:20,103:INFO: wavelength = 1050 is done. 
+
+2019-04-20 22:47:21,920:INFO: wavelength = 1100 is done. 
+
+2019-04-20 22:47:23,736:INFO: wavelength = 1150 is done. 
+
+2019-04-20 22:47:25,579:INFO: wavelength = 1200 is done. 
+
+2019-04-20 22:47:27,395:INFO: wavelength = 1250 is done. 
+
+2019-04-20 22:47:29,208:INFO: wavelength = 1300 is done. 
+
+2019-04-21 01:40:43,388:INFO: Start training
+2019-04-21 01:55:53,500:INFO: Start training
+2019-04-21 02:13:41,941:INFO: Start generating devices for wavelength range 500 to 1300 and angle range from 35 to 85 
+
+2019-04-21 02:13:44,436:INFO: wavelength = 500 is done. 
+
+2019-04-21 02:13:46,928:INFO: wavelength = 550 is done. 
+
+2019-04-21 02:13:49,414:INFO: wavelength = 600 is done. 
+
+2019-04-21 02:13:51,907:INFO: wavelength = 650 is done. 
+
+2019-04-21 02:13:54,400:INFO: wavelength = 700 is done. 
+
+2019-04-21 02:13:56,902:INFO: wavelength = 750 is done. 
+
+2019-04-21 02:13:59,393:INFO: wavelength = 800 is done. 
+
+2019-04-21 02:14:01,887:INFO: wavelength = 850 is done. 
+
+2019-04-21 02:14:04,382:INFO: wavelength = 900 is done. 
+
+2019-04-21 02:14:06,888:INFO: wavelength = 950 is done. 
+
+2019-04-21 02:14:09,388:INFO: wavelength = 1000 is done. 
+
+2019-04-21 02:14:11,890:INFO: wavelength = 1050 is done. 
+
+2019-04-21 02:14:14,399:INFO: wavelength = 1100 is done. 
+
+2019-04-21 02:14:16,900:INFO: wavelength = 1150 is done. 
+
+2019-04-21 02:14:19,399:INFO: wavelength = 1200 is done. 
+
+2019-04-21 02:14:21,897:INFO: wavelength = 1250 is done. 
+
+2019-04-21 02:14:24,395:INFO: wavelength = 1300 is done. 
+
+2019-04-21 02:26:46,379:INFO: Start training
+2019-04-21 02:32:54,515:INFO: Start training
+2019-04-21 02:56:50,736:INFO: Start training
+2019-04-21 02:57:32,744:INFO: Start training
+2019-04-22 02:58:55,546:INFO: Start training
+2019-04-22 03:02:51,927:INFO: Start training
+2019-04-22 03:05:04,112:INFO: Start training
+2019-04-22 03:13:48,376:INFO: Start training
+2019-04-22 03:23:57,104:INFO: Start training
+2019-04-22 03:32:26,143:INFO: Start training
+2019-04-22 03:37:36,022:INFO: Start training
+2019-04-22 03:39:48,248:INFO: Start training
+2019-04-22 03:42:43,734:INFO: Start training
+2019-04-22 03:45:04,705:INFO: Start training
+2019-04-22 03:48:22,722:INFO: Start training
+2019-04-22 03:55:23,690:INFO: Start training
+2019-04-22 03:57:44,423:INFO: Start training
+2019-04-22 03:59:33,806:INFO: Start training
+2019-04-22 04:08:57,056:INFO: Start training
+2019-04-22 04:10:10,886:INFO: Start training
+2019-04-22 04:16:09,967:INFO: Start training
+2019-04-22 04:16:25,309:INFO: Start training
+2019-04-22 04:17:46,315:INFO: Start training
+2019-04-22 04:18:03,012:INFO: Start generating devices for wavelength range 500 to 1300 and angle range from 35 to 85 
+
+2019-04-22 04:18:05,508:INFO: wavelength = 500 is done. 
+
+2019-04-22 04:18:08,000:INFO: wavelength = 550 is done. 
+
+2019-04-22 04:18:10,496:INFO: wavelength = 600 is done. 
+
+2019-04-22 04:18:12,988:INFO: wavelength = 650 is done. 
+
+2019-04-22 04:18:15,478:INFO: wavelength = 700 is done. 
+
+2019-04-22 04:18:17,973:INFO: wavelength = 750 is done. 
+
+2019-04-22 04:18:20,470:INFO: wavelength = 800 is done. 
+
+2019-04-22 04:18:22,965:INFO: wavelength = 850 is done. 
+
+2019-04-22 04:18:25,467:INFO: wavelength = 900 is done. 
+
+2019-04-22 04:18:27,957:INFO: wavelength = 950 is done. 
+
+2019-04-22 04:18:30,464:INFO: wavelength = 1000 is done. 
+
+2019-04-22 04:18:32,961:INFO: wavelength = 1050 is done. 
+
+2019-04-22 04:18:49,868:INFO: Start training
+2019-04-22 12:41:51,841:INFO: Start training
+2019-04-22 13:00:10,287:INFO: Start training
+2019-04-22 13:01:17,034:INFO: Start generating devices for wavelength range 500 to 1300 and angle range from 35 to 85 
+
+2019-04-22 13:02:16,693:INFO: wavelength = 500 is done. 
+
+2019-04-22 13:03:15,458:INFO: wavelength = 550 is done. 
+
+2019-04-22 13:04:14,341:INFO: wavelength = 600 is done. 
+
+2019-04-22 13:05:12,754:INFO: wavelength = 650 is done. 
+
+2019-04-22 13:07:26,658:INFO: wavelength = 700 is done. 
+
+2019-04-22 13:08:31,950:INFO: wavelength = 750 is done. 
+
+2019-04-22 13:09:31,971:INFO: wavelength = 800 is done. 
+
+2019-04-22 13:10:30,965:INFO: wavelength = 850 is done. 
+
+2019-04-22 13:11:30,108:INFO: wavelength = 900 is done. 
+
+2019-04-22 13:12:28,964:INFO: wavelength = 950 is done. 
+
+2019-04-22 13:13:28,008:INFO: wavelength = 1000 is done. 
+
+2019-04-22 13:14:26,303:INFO: wavelength = 1050 is done. 
+
+2019-04-22 13:15:24,932:INFO: wavelength = 1100 is done. 
+
+2019-04-22 13:16:23,457:INFO: wavelength = 1150 is done. 
+
+2019-04-22 13:17:21,412:INFO: wavelength = 1200 is done. 
+
+2019-04-22 13:18:20,572:INFO: wavelength = 1250 is done. 
+
+2019-04-22 13:19:19,047:INFO: wavelength = 1300 is done. 
+
+2019-04-22 13:30:28,020:INFO: Start training
+2019-04-22 13:31:02,208:INFO: Start generating devices for wavelength range 500 to 1300 and angle range from 35 to 85 
+
+2019-04-22 13:31:39,558:INFO: wavelength = 500 is done. 
+
+2019-04-22 13:32:16,667:INFO: wavelength = 550 is done. 
+
+2019-04-22 13:32:53,630:INFO: wavelength = 600 is done. 
+
+2019-04-22 13:33:30,642:INFO: wavelength = 650 is done. 
+
+2019-04-22 13:34:07,820:INFO: wavelength = 700 is done. 
+
+2019-04-22 13:34:45,369:INFO: wavelength = 750 is done. 
+
+2019-04-22 13:35:22,043:INFO: wavelength = 800 is done. 
+
+2019-04-22 13:35:59,049:INFO: wavelength = 850 is done. 
+
+2019-04-22 13:36:36,157:INFO: wavelength = 900 is done. 
+
+2019-04-22 13:37:13,336:INFO: wavelength = 950 is done. 
+
+2019-04-22 13:37:50,436:INFO: wavelength = 1000 is done. 
+
+2019-04-22 13:38:27,447:INFO: wavelength = 1050 is done. 
+
+2019-04-22 13:39:04,789:INFO: wavelength = 1100 is done. 
+
+2019-04-22 13:39:42,048:INFO: wavelength = 1150 is done. 
+
+2019-04-22 13:40:19,342:INFO: wavelength = 1200 is done. 
+
+2019-04-22 13:40:56,513:INFO: wavelength = 1250 is done. 
+
+2019-04-22 13:41:34,606:INFO: wavelength = 1300 is done. 
+
+2019-04-22 13:49:11,359:INFO: Start training
+2019-04-22 13:49:46,475:INFO: Start generating devices for wavelength range 500 to 1300 and angle range from 35 to 85 
+
+2019-04-22 13:50:23,207:INFO: wavelength = 500 is done. 
+
+2019-04-22 13:50:59,973:INFO: wavelength = 550 is done. 
+
+2019-04-22 13:51:37,050:INFO: wavelength = 600 is done. 
+
+2019-04-22 13:52:14,033:INFO: wavelength = 650 is done. 
+
+2019-04-22 13:52:50,796:INFO: wavelength = 700 is done. 
+
+2019-04-22 13:53:27,400:INFO: wavelength = 750 is done. 
+
+2019-04-22 13:54:04,117:INFO: wavelength = 800 is done. 
+
+2019-04-22 13:54:40,741:INFO: wavelength = 850 is done. 
+
+2019-04-22 13:55:17,523:INFO: wavelength = 900 is done. 
+
+2019-04-22 13:55:54,598:INFO: wavelength = 950 is done. 
+
+2019-04-22 13:56:31,721:INFO: wavelength = 1000 is done. 
+
+2019-04-22 13:57:09,162:INFO: wavelength = 1050 is done. 
+
+2019-04-22 13:57:45,922:INFO: wavelength = 1100 is done. 
+
+2019-04-22 13:58:23,166:INFO: wavelength = 1150 is done. 
+
+2019-04-22 13:59:00,138:INFO: wavelength = 1200 is done. 
+
+2019-04-22 13:59:37,703:INFO: wavelength = 1250 is done. 
+
+2019-04-22 14:00:14,612:INFO: wavelength = 1300 is done. 
+
+2019-04-22 14:22:39,071:INFO: Start training
+2019-04-23 02:39:46,990:INFO: Start training
+2019-04-23 13:03:26,213:INFO: Start training
+2019-04-23 13:21:22,916:INFO: Start training
